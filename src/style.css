@@ -1,12 +1,13 @@
 .block{
     display: flex;
     flex-direction: column;
-    margin: 5px;
+    margin: 5px 5px 5px 20px;
 }
 .block div{
     margin-top: 10px;
 }
 button{
+    margin: 10px 0px 10px 20px;
     margin-top: 10px;
     padding: 10px 20px;
     background-color: #4b4b4b;
